@@ -1,6 +1,6 @@
 cask "agent-scope" do
-  version "0.3.1"
-  sha256 "d36930202290d274144ee4b683780675ac10a542812a34bd006bdcbb19b0a27e"
+  version "0.3.2"
+  sha256 "5dde8798b3e9217e1b8dae568d8768b529848398025b2110871e3e4135384f38"
 
   # GitHub Release assets replace spaces with dots, so the published name is Agent.Scope_…
   url "https://github.com/NejaTive/agent-scope/releases/download/v#{version}/Agent.Scope_#{version}_aarch64.dmg"
